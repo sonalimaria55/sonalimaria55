@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 Full-Stack Developer with a strong frontend focus — building clean UIs and functional web applications  
 
 ⚛️ **Frontend:**  
-React • JavaScript • HTML • CSS • Bootstrap • Tailwind CSS  
+ • React • JavaScript • HTML • CSS • Bootstrap • Tailwind CSS  
 
 🛠️ **Backend:**  
-Node.js • Express.js  
+ • Node.js • Express.js  
 
 🗄️ **Database:**  
-MongoDB • Mongoose  
+ • MongoDB • Mongoose  
 
 🔐 **Authentication:**  
-JWT • Role-based access control  
+ • JWT • Role-based access control  
 
 🧪 **Tools:**  
-Git • GitHub • Postman  
+ • Git • GitHub • Postman  
 
 
 
