@@ -21,7 +21,6 @@ I am a passionate developer with experience building scalable web applications.
 I enjoy working across both frontend and backend, creating responsive UIs and efficient APIs.
 
 - 💻 Focus: Full-Stack Development (MERN)
-- 🌱 Currently improving: System design & performance optimization
 - ⚡ Interest: Building real-world applications
 
 ---
