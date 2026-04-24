@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## ⭐ About Me
 
-Full-Stack Developer with a strong frontend focus — building clean UIs and functional web applications  
+Full-Stack Developer — building clean UIs and functional web applications  
 
 ⚛️ **Frontend:**  
  • React • JavaScript • HTML • CSS • Bootstrap • Tailwind CSS  
