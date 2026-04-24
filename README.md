@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 About Me
+## ⭐ About Me
 
-🎯 Full-Stack Developer with a strong frontend focus — building clean UIs and functional web applications  
+Full-Stack Developer with a strong frontend focus — building clean UIs and functional web applications  
 
 ⚛️ **Frontend:**  
 React • JavaScript • HTML • CSS • Bootstrap • Tailwind CSS  
@@ -36,5 +36,5 @@ Git • GitHub • Postman
 
 
 
-🚀 **Currently Learning:**  
+ **Currently Learning:**  
 Advanced backend concepts & scalable application development  
